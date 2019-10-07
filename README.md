@@ -1,2 +1,2 @@
 # jupyter
-My practice lessons
+Python Cheat Sheet Practice 
